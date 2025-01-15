@@ -6,8 +6,8 @@ and I focus on the application of **Artificial Intelligence (AI) in healthcare**
 ## 🔧 Technologies & Tools
 
 ### Frontend Development
-- 🌐 **React.js** – Building interactive UIs with components.
-- ⚡ **Next.js** – Server-side rendering and static site generation for React applications.
+- 🌐 **Vue.js** – Building interactive UIs with components.
+- ⚡ **Nuxt.js** – Server-side rendering and static site generation for React applications.
 - 💻 **HTML5**, **CSS3**, **JavaScript** – Core web technologies.
 - 🖋️ **TypeScript** – Adding type safety to JavaScript for more robust applications.
 - 🎨 **TailwindCSS** – Utility-first CSS framework for fast UI development.
