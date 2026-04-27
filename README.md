@@ -55,7 +55,7 @@ and I focus on the application of **Artificial Intelligence (AI) in healthcare**
 ## 📫 How to reach me...
 - 📧 **Email**: sethiosmomentum@gmail.com
 - 💬 **LinkedIn**: https://linkedin.com/in/@sethiosmomentum
-- 🌐 **Website**: https://www.smomentum.com
+- 🌐 **Website**: https://www.sethios.me
 - 🐦 **Twitter**: @sethios_momentum
 
 ---
