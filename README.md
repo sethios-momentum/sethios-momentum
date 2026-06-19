@@ -197,7 +197,6 @@ Main Objectives
 
 💼 LinkedIn: https://linkedin.com/in/sethiosmomentum
 
-🌐 Website: https://www.sethios.me
 
 🐦 X (Twitter): https://x.com/sethios_momentum
 
