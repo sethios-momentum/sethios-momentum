@@ -1,231 +1,256 @@
-👋 Hi, I'm Sethios Momentum
 
-🚀 Full Stack Developer | AI Enthusiast | Digital Health Innovator
+<div align="center">
 
-Passionate software engineer dedicated to building intelligent and impactful digital solutions. My work focuses on combining Artificial Intelligence, Data Science, and Modern Web Technologies to solve real-world challenges, particularly in healthcare, education, and digital transformation across Africa.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=850&lines=%F0%9F%91%8B+Hi%2C+I'm+Sethios+Momentum;Software+Engineer+%7C+AI+Researcher;Digital+Health+Innovator;Federated+Learning+Enthusiast;Building+Secure+AI+for+Africa's+Healthcare" alt="Typing SVG" />
 
-I believe technology should not only be innovative but also accessible, scalable, and capable of improving lives.
+<br/>
 
----
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0969DA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sethios.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sethiosmomentum)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sethios_momentum)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sethiosmomentum@gmail.com)
 
-🧠 About Me
+</div>
 
-- 💻 Full Stack Software Developer
-- 🤖 Artificial Intelligence Enthusiast
-- 🏥 Digital Health Innovator
-- 🌍 Technology Advocate for Africa
-- 📡 Telecommunications & Software Engineering Background
-- 🔬 Research-Oriented Developer
-- 📚 Lifelong Learner and Open-Source Contributor
+<br/>
 
----
+<div align="center">
 
-🚀 Tech Stack
+> *"Technology becomes truly meaningful when it improves lives."*
 
-Frontend Development
-
-- ⚛️ React.js – Building modern and interactive user interfaces.
-- ▲ Next.js – Full-stack React framework with SSR, SSG, SEO, and high performance.
-- 💚 Vue.js – Progressive JavaScript framework for building user interfaces.
-- 🚀 Nuxt.js – Vue framework for server-side rendering and scalable applications.
-- 🖋️ TypeScript – Strongly typed JavaScript for reliable and maintainable code.
-- 🌐 HTML5 – Structuring modern web applications.
-- 🎨 CSS3 – Styling responsive and attractive user interfaces.
-- 💨 Tailwind CSS – Utility-first CSS framework for rapid UI development.
-- 📱 Responsive Design – Creating seamless experiences across all devices.
-
-Backend Development
-
-- 🐘 PHP – Developing dynamic and scalable web applications.
-- 🔥 Laravel – Elegant PHP framework for robust backend systems.
-- 🐍 Python – Versatile language for backend development, AI, and automation.
-- 🎯 Django – High-level Python framework for secure and scalable applications.
-- ⚙️ Node.js – JavaScript runtime for building fast APIs and backend services.
-- 🚦 Express.js – Lightweight framework for RESTful APIs and web services.
-- 🔗 REST APIs – Designing and integrating modern application services.
-
-Mobile Development
-
-- 📱 React Native – Building native mobile applications using React.
-- 🚀 Expo – Accelerating React Native development and deployment.
-- 🔄 Socket.IO – Real-time bidirectional communication between clients and servers.
-- ⚡ WebSocket – Low-latency communication for real-time applications.
-- 🔌 API Integration – Connecting mobile applications with external services.
-- 🔔 Push Notifications – Delivering real-time alerts and user engagement features.
-
-Artificial Intelligence & Data Science
-
-- 🤖 TensorFlow – Building and deploying machine learning models.
-- 🔥 PyTorch – Research-focused deep learning framework.
-- 🧠 Keras – Simplifying neural network development.
-- 👁️ OpenCV – Computer vision and image processing solutions.
-- 📊 Machine Learning – Creating predictive and intelligent systems.
-- 🧬 Deep Learning – Developing advanced neural network architectures.
-- 🗣️ Natural Language Processing (NLP) – Enabling machines to understand human language.
-- 📈 Predictive Analytics – Extracting insights and forecasting outcomes from data.
-
-Databases
-
-- 🐘 PostgreSQL – Advanced open-source relational database.
-- 🗄️ MySQL – Reliable database for web applications.
-- 🍃 MongoDB – Flexible NoSQL database for modern applications.
-- 📦 SQLite – Lightweight database for prototypes and embedded systems.
-
-State Management & Data Fetching
-
-- ⚡ React Query (TanStack Query) – Efficient server-state management and caching.
-- 🏪 Redux Toolkit – Predictable and scalable application state management.
-- 🔄 Context API – Lightweight state sharing within React applications.
-
-Testing & Quality Assurance
-
-- 🧪 Jest – JavaScript testing framework for unit and integration tests.
-- ✅ React Testing Library – Testing React components from the user's perspective.
-- 🎭 Playwright – End-to-end testing for modern web applications.
-- 🔍 Functional Testing – Ensuring applications behave as expected.
-
-DevOps & Tools
-
-- 🌳 Git – Version control and collaboration.
-- 🐙 GitHub – Hosting, collaboration, and open-source development.
-- 🐳 Docker – Containerization for consistent deployments.
-- 🐧 Linux – Preferred environment for development and servers.
-- 📬 Postman – API development and testing platform.
-- 🔄 CI/CD – Automating testing, integration, and deployment workflows.
-- 🚀 Performance Optimization – Improving speed, scalability, and user experience.
-- 🔍 SEO Optimization – Enhancing visibility on search engines.
-- ⚡ SSR / SSG – Leveraging server-side and static rendering for performance.
-
+</div>
 
 ---
 
-🔬 Current Focus
+<br/>
 
-Currently exploring and building solutions around:
+**Software Engineer • AI Researcher • Digital Health Innovator**
 
-- AI-Powered Healthcare Systems
-- Medical Decision Support Systems
-- Predictive Health Analytics
-- Medical Imaging Analysis
-- Healthcare Data Intelligence
-- Large Language Models (LLMs)
-- AI Agents
-- Cloud-Native Applications
-- Scalable Software Architectures
+Building **secure, scalable and privacy-preserving AI systems** for Africa's healthcare ecosystem. Passionate about designing complete architectures—from backend infrastructure and cloud systems to intelligent AI models.
+
+| 🧠 Focus Area | 🔬 Research | ⚙️ Engineering | 🌍 Impact |
+|:---:|:---:|:---:|:---:|
+| Digital Health | Federated Learning | Full Stack Systems | Africa Healthcare |
+| AI Systems | Privacy-Preserving AI | Cloud Architectures | Open Source |
+| Clinical AI | Medical Imaging | Secure Backend | Health Equity |
 
 ---
 
-🏥 Flagship Vision: DOCTEUR SOLUTION
+## 🏥 **Flagship Project: OpenHealthFL**
 
-DOCTEUR SOLUTION is my long-term vision for a complete digital health ecosystem designed to connect:
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Active_Development-2EA44F?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/License-Open_Source-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+</div>
 
-- Patients
-- Doctors
-- Hospitals
-- Pharmacies
-- Laboratories
-- Researchers
-- Health Organizations
+<br/>
 
-through intelligent technologies, automation, and Artificial Intelligence.
+### *An Open Federated AI Framework for Privacy-Preserving Healthcare in Africa.*
 
-Main Objectives
+OpenHealthFL enables **secure collaboration between hospitals** without exposing sensitive patient data, combining cutting-edge AI with healthcare interoperability standards.
 
-- Improve healthcare accessibility
-- Support medical decision-making
-- Enhance patient monitoring
-- Facilitate health data management
-- Accelerate medical research
-- Build healthcare solutions adapted to African realities
+```mermaid
+flowchart LR
+    P[👤 Patients] --> FHIR
+    D[👨‍⚕️ Doctors] --> FHIR
+    H[🏥 Hospitals] --> FHIR
+    L[🔬 Laboratories] --> FHIR
+    PH[💊 Pharmacies] --> FHIR
 
----
+    FHIR[🔗 FHIR Gateway] --> FL
 
-🌱 Currently Learning
+    FL[🔒 Federated Learning] --> AI
 
-- Advanced Deep Learning
-- Generative AI
-- AI Agents & Multi-Agent Systems
-- Medical AI Applications
-- Cloud Computing
-- Kubernetes
-- Software Architecture
-- Cybersecurity
-- Health Informatics
+    AI[🧠 Clinical AI Assistant] --> DSS
 
----
+    DSS[📋 Clinical Decision Support] --> Analytics
 
-🤝 Looking to Collaborate On
+    Analytics[📊 Healthcare Analytics Dashboard]
+```
 
-- AI Healthcare Projects
-- Machine Learning Research
-- Medical Informatics
-- Full Stack Applications
-- Open Source Projects
-- Data Science Initiatives
-- HealthTech Startups
-- Research & Innovation Programs
+### 🧩 **Core Modules**
+
+| Module | Description | Tech |
+|:---|:---|:---|
+| 🤖 **AI Clinical Assistant** | Real-time diagnostic support for clinicians | LLMs, NLP, Federated Learning |
+| 🏥 **EHR System** | Standards-compliant electronic health records | FHIR, HL7, DICOM |
+| 🔒 **Privacy Engine** | Patient data never leaves hospital infrastructure | Differential Privacy, Secure Aggregation |
+| 📡 **Telemedicine** | Remote consultation and patient monitoring | WebRTC, Real-time APIs |
+| 📊 **Analytics Hub** | Population health insights without compromising privacy | Federated Analytics |
 
 ---
 
-📊 Professional Interests
+## 🛠 **Technology Arsenal**
 
-- Artificial Intelligence
-- Healthcare Technology
-- Data Science
-- Digital Health
-- Software Engineering
-- Research & Innovation
-- Entrepreneurship
-- Emerging Technologies
+### 🧬 Core Languages
 
----
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://javascript.com)
 
-📈 2026 Goals
+### 🎨 Frontend
 
-- Build and launch key modules of DOCTEUR SOLUTION
-- Contribute to impactful open-source projects
-- Publish AI and healthcare-related research
-- Collaborate with international researchers and developers
-- Pursue advanced studies in Artificial Intelligence and Digital Health
-- Develop scalable solutions for Africa's healthcare ecosystem
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org)
+[![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org)
+[![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)](https://nuxt.com)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 
----
+### ⚙️ Backend
 
-📫 Connect With Me
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com)
+[![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)](https://djangoproject.com)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
+[![Express](https://img.shields.io/badge/Express-333333?style=flat-square&logo=express&logoColor=white)](https://expressjs.com)
 
-📧 Email: sethiosmomentum@gmail.com
+### 🧠 AI & Machine Learning
 
-💼 LinkedIn: https://linkedin.com/in/sethiosmomentum
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://tensorflow.org)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
 
+### 🗄️ Data & Storage
 
-🐦 X (Twitter): https://x.com/sethios_momentum
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://mysql.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://mongodb.com)
 
----
+### ☁️ DevOps & Infrastructure
 
-⚡ Fun Fact
-
-I am fascinated by the intersection of Artificial Intelligence and Healthcare, and I believe the next generation of healthcare systems will be powered by intelligent, data-driven technologies capable of transforming lives across the world.
-
----
-
-🌟 Future Projects
-
-🧠 DOCTEUR SOLUTION AI
-
-An AI-powered healthcare ecosystem designed to improve healthcare delivery and accessibility.
-
-🔬 Health Research Hub
-
-A collaborative platform connecting researchers, students, institutions, and healthcare professionals.
-
-🤖 AI Medical Assistant
-
-A multilingual intelligent assistant supporting healthcare professionals and patients through advanced AI technologies.
-
-📚 Digital Knowledge Platform
-
-A research and learning ecosystem focused on technology, health, and innovation.
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://linux.org)
+[![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 
 ---
 
-«“Building intelligent technology that creates meaningful impact.”»
+## 🔬 **Research Domains**
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h4>🔒 Privacy-Preserving AI</h4>
+      <p>
+        <code>Federated Learning</code><br/>
+        <code>Differential Privacy</code><br/>
+        <code>Secure Aggregation</code><br/>
+        <code>Homomorphic Encryption</code>
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <h4>🏥 Healthcare AI</h4>
+      <p>
+        <code>Medical Imaging</code><br/>
+        <code>Clinical Decision Support</code><br/>
+        <code>LLMs for Healthcare</code><br/>
+        <code>AI Agents & Diagnostics</code>
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <h4>🌍 Interoperability</h4>
+      <p>
+        <code>FHIR Standards</code><br/>
+        <code>HL7 Protocols</code><br/>
+        <code>DICOM Imaging</code><br/>
+        <code>Distributed Systems</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
+### 📚 Continuous Learning
+
+<div align="center">
+  <code>Large Language Models</code> • <code>Generative AI</code> • <code>AI Agents</code> • <code>Cloud Native Architecture</code> • <code>Kubernetes</code> • <code>Cybersecurity</code> • <code>Explainable AI</code>
+</div>
+
+---
+
+## 🎯 **2026 Roadmap**
+
+```mermaid
+timeline
+    title 2026 Vision & Milestones
+    Q1-Q2 : 🚀 Launch OpenHealthFL MVP
+         : 🏥 Deploy pilot hospital partnerships
+    Q2-Q3 : 📄 Publish AI & Healthcare papers
+          : 🎤 Speak at international conferences
+    Q3-Q4 : 🤝 Scale open-source contributions
+          : 🎓 Advance research in Federated Learning
+    Full Year : 🌍 Expand Africa healthcare network
+```
+
+| 🚀 Product | 📝 Research | 🤝 Community | 🎓 Growth |
+|:---:|:---:|:---:|:---:|
+| Launch OpenHealthFL | Publish peer-reviewed papers | Major open-source contributions | Advanced AI studies |
+| Deploy hospital pilots | Conference presentations | International collaborations | Federated Learning research |
+| Scale African solutions | Clinical AI validation | Mentorship & education | Cloud architecture mastery |
+
+---
+
+## 📜 **Certifications**
+
+[![Oracle AI Foundations](https://img.shields.io/badge/Oracle_AI_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)]()
+[![Oracle Gen AI Professional](https://img.shields.io/badge/Oracle_Gen_AI_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)]()
+[![Python Development](https://img.shields.io/badge/Python_Development-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![Google AI Cloud](https://img.shields.io/badge/Google_AI_&_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)]()
+
+---
+
+## 🤝 **Let's Build Together**
+
+<div align="center">
+
+| 💡 Research | 🏥 Healthcare | 🛠 Engineering |
+|:---:|:---:|:---:|
+| Federated Learning | HealthTech Startups | Full Stack Systems |
+| Privacy-Preserving AI | AI for Social Good | Open Source Projects |
+| Medical AI Papers | Digital Health Tools | Cloud Infrastructure |
+
+<br/>
+
+### I'm actively seeking collaborations on impactful projects at the intersection of AI and Healthcare.
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0969DA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sethios.me)
+[![Email](https://img.shields.io/badge/📧_Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sethiosmomentum@gmail.com)
+
+</div>
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=sethios-momentum&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=sethios-momentum&theme=transparent&hide_border=true" alt="GitHub Streak" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethios-momentum&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sethios-momentum&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+<br/>
+
+### ⭐ **Let's build the future of Digital Health together.**
+
+*Consider following my journey or reaching out for collaboration on impactful AI & Healthcare projects across Africa.*
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=sethios-momentum&style=flat-square&color=0969DA" alt="Profile Views" />
+
+</div>
+```
+
